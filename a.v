@@ -17,3 +17,5 @@ a test 6;
 a test remote 7;
 
 a test remote 8;
+
+a test remote 9;
